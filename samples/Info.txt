@@ -1,0 +1,285 @@
+***************  Scan008  ***************
+
+Total no of clusters(textlines) = 21
+
+No of Labels in each cluster:
+Cluster code 39 has 15 labels
+Cluster code 8 has 18 labels
+Cluster code 9 has 17 labels
+Cluster code 43 has 14 labels
+Cluster code 13 has 21 labels
+Cluster code 12 has 11 labels
+Cluster code 14 has 11 labels
+Cluster code 16 has 11 labels
+Cluster code 18 has 13 labels
+Cluster code 40 has 14 labels
+Cluster code 25 has 11 labels
+Cluster code 20 has 13 labels
+Cluster code 23 has 12 labels
+Cluster code 41 has 13 labels
+Cluster code 29 has 7 labels
+Cluster code 42 has 11 labels
+Cluster code 31 has 9 labels
+Cluster code 38 has 9 labels
+Cluster code 33 has 16 labels
+Cluster code 34 has 16 labels
+Cluster code 35 has 5 labels
+
+***************  Scan009  ***************
+
+Total no of clusters(textlines) = 22
+
+No of Labels in each cluster:
+Cluster code 2 has 13 labels
+Cluster code 9 has 19 labels
+Cluster code 39 has 18 labels
+Cluster code 1 has 19 labels
+Cluster code 4 has 18 labels
+Cluster code 5 has 17 labels
+Cluster code 10 has 17 labels
+Cluster code 11 has 19 labels
+Cluster code 12 has 13 labels
+Cluster code 14 has 12 labels
+Cluster code 36 has 14 labels
+Cluster code 16 has 7 labels
+Cluster code 17 has 11 labels
+Cluster code 25 has 13 labels
+Cluster code 18 has 15 labels
+Cluster code 37 has 23 labels
+Cluster code 27 has 16 labels
+Cluster code 38 has 16 labels
+Cluster code 34 has 3 labels
+Cluster code 35 has 2 labels
+Cluster code 26 has 14 labels
+Cluster code 30 has 9 labels
+
+***************  Scan011  ***************
+
+Total no of clusters(textlines) = 23
+No of Labels in each cluster:
+Cluster code 4 has 3 labels
+Cluster code 45 has 10 labels
+Cluster code 38 has 7 labels
+Cluster code 10 has 18 labels
+Cluster code 12 has 21 labels
+Cluster code 8 has 12 labels
+Cluster code 34 has 3 labels
+Cluster code 39 has 13 labels
+Cluster code 11 has 12 labels
+Cluster code 35 has 2 labels
+Cluster code 40 has 15 labels
+Cluster code 36 has 2 labels
+Cluster code 33 has 4 labels
+Cluster code 15 has 1 labels
+Cluster code 19 has 8 labels
+Cluster code 42 has 14 labels
+Cluster code 41 has 8 labels
+Cluster code 20 has 10 labels
+Cluster code 22 has 10 labels
+Cluster code 43 has 15 labels
+Cluster code 25 has 3 labels
+Cluster code 44 has 15 labels
+Cluster code 29 has 11 labels
+
+
+***************  Scan014  ***************
+
+Total no of clusters(textlines) = 20
+
+No of Labels in each cluster:
+Cluster code 1 has 20 labels
+Cluster code 15 has 26 labels
+Cluster code 12 has 13 labels
+Cluster code 16 has 22 labels
+Cluster code 23 has 15 labels
+Cluster code 46 has 18 labels
+Cluster code 47 has 15 labels
+Cluster code 52 has 21 labels
+Cluster code 40 has 8 labels
+Cluster code 22 has 10 labels
+Cluster code 48 has 29 labels
+Cluster code 26 has 27 labels
+Cluster code 49 has 20 labels
+Cluster code 50 has 22 labels
+Cluster code 31 has 26 labels
+Cluster code 32 has 8 labels
+Cluster code 36 has 22 labels
+Cluster code 35 has 21 labels
+Cluster code 43 has 27 labels
+Cluster code 51 has 9 labels
+
+***************  Scan015  ***************
+
+Total no of clusters(textlines) = 20
+
+No of Labels in each cluster:
+Cluster code 1 has 7 labels
+Cluster code 6 has 7 labels
+Cluster code 41 has 6 labels
+Cluster code 22 has 10 labels
+Cluster code 23 has 6 labels
+Cluster code 48 has 8 labels
+Cluster code 42 has 2 labels
+Cluster code 47 has 10 labels
+Cluster code 12 has 9 labels
+Cluster code 28 has 8 labels
+Cluster code 46 has 6 labels
+Cluster code 45 has 10 labels
+Cluster code 16 has 2 labels
+Cluster code 34 has 5 labels
+Cluster code 18 has 8 labels
+Cluster code 17 has 4 labels
+Cluster code 49 has 10 labels
+Cluster code 40 has 6 labels
+Cluster code 35 has 4 labels
+Cluster code 38 has 4 labels
+
+***************  Scan016  ***************
+
+Total no of clusters(textlines) = 16
+No of Labels in each cluster:
+Cluster code 7 has 11 labels
+Cluster code 47 has 11 labels
+Cluster code 3 has 6 labels
+Cluster code 5 has 8 labels
+Cluster code 44 has 14 labels
+Cluster code 9 has 9 labels
+Cluster code 46 has 9 labels
+Cluster code 40 has 9 labels
+Cluster code 33 has 4 labels
+Cluster code 13 has 8 labels
+Cluster code 41 has 10 labels
+Cluster code 48 has 8 labels
+Cluster code 42 has 11 labels
+Cluster code 43 has 12 labels
+Cluster code 45 has 11 labels
+Cluster code 37 has 2 labels
+
+
+***************  Scan018  ***************
+
+Total no of clusters(textlines) = 19
+
+No of Labels in each cluster:
+Cluster code 2 has 5 labels
+Cluster code 27 has 8 labels
+Cluster code 5 has 5 labels
+Cluster code 3 has 5 labels
+Cluster code 7 has 8 labels
+Cluster code 22 has 6 labels
+Cluster code 8 has 5 labels
+Cluster code 9 has 8 labels
+Cluster code 23 has 8 labels
+Cluster code 24 has 7 labels
+Cluster code 25 has 7 labels
+Cluster code 17 has 4 labels
+Cluster code 19 has 11 labels
+Cluster code 12 has 16 labels
+Cluster code 13 has 8 labels
+Cluster code 20 has 10 labels
+Cluster code 21 has 4 labels
+Cluster code 26 has 2 labels
+Cluster code 16 has 5 labels
+
+
+***************  Scan024  ***************
+
+Total no of clusters(textlines) = 17
+
+No of Labels in each cluster:
+Cluster code 28 has 15 labels
+Cluster code 33 has 20 labels
+Cluster code 3 has 18 labels
+Cluster code 6 has 5 labels
+Cluster code 35 has 17 labels
+Cluster code 34 has 22 labels
+Cluster code 13 has 13 labels
+Cluster code 7 has 7 labels
+Cluster code 16 has 9 labels
+Cluster code 15 has 10 labels
+Cluster code 14 has 9 labels
+Cluster code 21 has 20 labels
+Cluster code 31 has 24 labels
+Cluster code 24 has 16 labels
+Cluster code 36 has 15 labels
+Cluster code 25 has 12 labels
+Cluster code 27 has 7 labels
+
+
+
+***************  Scan027  ***************
+
+Total no of clusters(textlines) = 25
+
+No of Labels in each cluster:
+Cluster code 7 has 13 labels
+Cluster code 1 has 12 labels
+Cluster code 3 has 18 labels
+Cluster code 15 has 12 labels
+Cluster code 14 has 15 labels
+Cluster code 6 has 14 labels
+Cluster code 38 has 1 labels
+Cluster code 8 has 12 labels
+Cluster code 12 has 15 labels
+Cluster code 39 has 8 labels
+Cluster code 40 has 17 labels
+Cluster code 17 has 13 labels
+Cluster code 19 has 19 labels
+Cluster code 35 has 17 labels
+Cluster code 23 has 13 labels
+Cluster code 24 has 10 labels
+Cluster code 25 has 11 labels
+Cluster code 26 has 8 labels
+Cluster code 27 has 10 labels
+Cluster code 28 has 18 labels
+Cluster code 36 has 8 labels
+Cluster code 41 has 7 labels
+Cluster code 29 has 15 labels
+Cluster code 30 has 6 labels
+Cluster code 33 has 14 labels
+
+***************  Scan036  ***************
+
+Total no of clusters(textlines) = 17
+
+No of Labels in each cluster:
+Cluster code 1 has 16 labels
+Cluster code 23 has 9 labels
+Cluster code 28 has 15 labels
+Cluster code 6 has 13 labels
+Cluster code 8 has 9 labels
+Cluster code 29 has 12 labels
+Cluster code 10 has 9 labels
+Cluster code 24 has 14 labels
+Cluster code 25 has 8 labels
+Cluster code 11 has 13 labels
+Cluster code 26 has 9 labels
+Cluster code 13 has 13 labels
+Cluster code 17 has 8 labels
+Cluster code 30 has 6 labels
+Cluster code 18 has 12 labels
+Cluster code 20 has 9 labels
+Cluster code 22 has 11 labels
+
+
+***************  Scan037  ***************
+
+Total no of clusters(textlines) = 16
+
+No of Labels in each cluster:
+Cluster code 1 has 9 labels
+Cluster code 22 has 9 labels
+Cluster code 3 has 7 labels
+Cluster code 5 has 7 labels
+Cluster code 24 has 8 labels
+Cluster code 10 has 10 labels
+Cluster code 4 has 10 labels
+Cluster code 23 has 16 labels
+Cluster code 14 has 13 labels
+Cluster code 7 has 17 labels
+Cluster code 26 has 14 labels
+Cluster code 16 has 11 labels
+Cluster code 21 has 11 labels
+Cluster code 15 has 9 labels
+Cluster code 27 has 14 labels
+Cluster code 18 has 11 labels
